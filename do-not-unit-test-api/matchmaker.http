@@ -1,0 +1,7 @@
+POST http://localhost:5031/api/matches
+content-type: application/json
+Authorization: Bearer 
+
+{
+    "playerId": "player1"
+}

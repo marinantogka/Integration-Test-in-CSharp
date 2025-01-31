@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matchmaker.Api", "MatchMaker.Api\Matchmaker.Api.csproj", "{0F01331A-9640-4A77-B1C4-F7C949B31B6A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatchMaker.Api.IntegrationTests", "MatchMaker.Api.IntegrationTests\MatchMaker.Api.IntegrationTests.csproj", "{52A470E5-C95B-481A-B4A1-2E67DD8A4497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F01331A-9640-4A77-B1C4-F7C949B31B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F01331A-9640-4A77-B1C4-F7C949B31B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F01331A-9640-4A77-B1C4-F7C949B31B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F01331A-9640-4A77-B1C4-F7C949B31B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A470E5-C95B-481A-B4A1-2E67DD8A4497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A470E5-C95B-481A-B4A1-2E67DD8A4497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A470E5-C95B-481A-B4A1-2E67DD8A4497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A470E5-C95B-481A-B4A1-2E67DD8A4497}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F14F094-9E92-41C3-89EB-0A779485FA83}
+	EndGlobalSection
+EndGlobal
