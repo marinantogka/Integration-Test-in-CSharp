@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using FluentAssertions;
 using Tweetbook.Contracts.V1;
 using Tweetbook.Contracts.V1.Requests;
-using Tweetbook.Domain;
+using Tweetbook.Domain; 
 using Xunit;
 
 namespace Tweetbook.IntegrationTests
